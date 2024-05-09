@@ -1,0 +1,71 @@
+employeeID,firstname,lastname,email,phone,address,city,state,zipcode,jobtitle,salary
+1001,John,Smith,john.smith@example.com,555-123-4567,123 Main St,Anytown,NY,32099,Sales Associate,45000
+1002,Emily,Johnson,emily.johnson@example.com,555-234-5678,456 Elm St,Springfield,IL,70407,HR Manager,65000
+1003,Michael,Williams,michael.williams@example.com,555-345-6789,789 Oak St,Oakville,CA,80611,Software Engineer,80000
+1004,Sarah,Brown,sarah.brown@example.com,555-456-7890,987 Pine St,Lakeside,FL,21945,Marketing Analyst,55000
+1005,David,Jones,david.jones@example.com,555-567-8901,654 Cedar St,Mountainview,CA,40610,Operations Manager,70000
+1006,Jessica,Garcia,jessica.garcia@example.com,555-678-9012,321 Birch St,Riverdale,NJ,25991,Customer Service Rep,40000
+1007,William,Martinez,william.martinez@example.com,555-789-0123,876 Maple St,Springdale,AR,77760,Financial Analyst,60000
+1008,Ashley,Robinson,ashley.robinson@example.com,555-890-1234,543 Walnut St,Greenvale,TN,40296,Project Manager,75000
+1009,Christopher,Lopez,christopher.lopez@example.com,555-901-2345,210 Pineapple St,Coral Gables,FL,66915,Graphic Designer,50000
+1010,Amanda,Lewis,amanda.lewis@example.com,555-012-3456,109 Orange St,Orangetown,TX,89222,Sales Manager,85000
+1011,Matthew,Anderson,matthew.anderson@example.com,555-123-4567,123 Cherry St,Cherryville,NC,84498-5547,Accountant,60000
+1012,Lauren,White,lauren.white@example.com,555-234-5678,456 Apple St,Appleton,WI,62823-3808,Administrative Assistant,40000
+1013,Kevin,Thomas,kevin.thomas@example.com,555-345-6789,789 Lemon St,Lemonville,CA,53236-4856,Quality Assurance Analyst,55000
+1014,Olivia,Hall,olivia.hall@example.com,555-456-7890,987 Grape St,Grapevine,TX,14310-3070,IT Specialist,65000
+1015,Daniel,Young,daniel.young@example.com,555-567-8901,654 Berry St,Berryton,OH,63363-2595,Operations Coordinator,45000
+1016,Hannah,Clark,hannah.clark@example.com,555-678-9012,321 Peach St,Peachtree City,GA,92568-9089,Marketing Coordinator,50000
+1017,Andrew,Wright,andrew.wright@example.com,555-789-0123,876 Banana St,Bananaville,FL,78354-5368,Sales Representative,55000
+1018,Elizabeth,Scott,elizabeth.scott@example.com,555-890-1234,543 Pineapple St,Pineapple Cove,HI,16040-4555,HR Assistant,40000
+1019,Ryan,Adams,ryan.adams@example.com,555-901-2345,210 Mango St,Mangotown,CA,72166-2086,Software Developer,75000
+1020,Samantha,Baker,samantha.baker@example.com,555-012-3456,109 Watermelon St,Watermelon Bay,FL,23399-3542,Product Manager,85000
+1021,Nathan,Evans,nathan.evans@example.com,555-123-4567,123 Plum St,Plumville,PA,58340-2811,Account Manager,70000
+1022,Victoria,Hill,victoria.hill@example.com,555-234-5678,456 Cherry Blossom St,Cherry Blossom City,WA,67429-7725,Marketing Manager,75000
+1023,Justin,Kelly,justin.kelly@example.com,555-345-6789,789 Lily St,Lilyfield,MA,11381-6511,Financial Controller,85000
+1024,Julia,Murphy,julia.murphy@example.com,555-456-7890,987 Rose St,Rosetown,TX,90019-2074,Data Analyst,60000
+1025,Brandon,Ross,brandon.ross@example.com,555-567-8901,654 Tulip St,Tulipville,OH,84979-3607,Software Tester,55000
+1026,Christina,Howard,christina.howard@example.com,555-678-9012,321 Sunflower St,Sunflower City,FL,20589-1671,Technical Support Specialist,45000
+1027,Ethan,Bailey,ethan.bailey@example.com,555-789-0123,876 Daisy St,Daisyfield,CA,67098-5203,Project Coordinator,50000
+1028,Megan,Cooper,megan.cooper@example.com,555-890-1234,543 Magnolia St,Magnoliaville,TN,10494,Operations Analyst,65000
+1029,Austin,Perez,austin.perez@example.com,555-901-2345,210 Orchid St,Orchidville,NV,75006,Human Resources Manager,80000
+1030,Grace,Rivera,grace.rivera@example.com,555-012-3456,109 Iris St,Irisfield,GA,24778,Business Analyst,70000
+1031,Connor,Bell,connor.bell@example.com,+1 (555) 123 4567,123 Daisy St,Daisyville,CA,72537,Software Engineer,75000
+1032,Hailey,Cruz,hailey.cruz@example.com,+1 (555) 234 5678,456 Rose St,Rosetown,TX,71686,Marketing Specialist,60000
+1033,Natalie,Flores,natalie.flores@example.com,+1 (555) 345 6789,789 Lily St,Lilyfield,MA,13815,Financial Analyst,65000
+1034,Mason,Long,mason.long@example.com,+1 (555) 456 7890,987 Orchid St,Orchidville,NV,63818,HR Generalist,55000
+1035,Isabella,Reed,isabella.reed@example.com,+1 (555) 567 8901,654 Sunflower St,Sunflowerville,FL,81458,Product Designer,70000
+1036,Dylan,Gomez,dylan.gomez@example.com,+1 (555) 678 9012,321 Iris St,Irisfield,GA,20302,Operations Coordinator,60000
+1037,Mia,Hill,mia.hill@example.com,+1 (555) 789 0123,876 Magnolia St,Magnoliaville,TN,92456-8776,Customer Success Manager,80000
+1038,James,Ward,james.ward@example.com,+1 (555) 890 1234,543 Tulip St,Tulipville,OH,19127-9163,Sales Representative,55000
+1039,Sophia,Watson,sophia.watson@example.com,+1 (555) 901 2345,210 Cherry St,Cherryville,NC,62982-2848,Quality Assurance Engineer,70000
+1040,Elijah,Bailey,elijah.bailey@example.com,+1 (555) 012 3456,109 Plum St,Plumville,PA,21532-5452,Data Scientist,85000
+1041,Samantha,Bell,samantha.bell@example.edu,+1 (555) 123 4567,123 Maple St,Mapleville,WA,45621-9226,Student,0
+1042,Jack,Cruz,jack.cruz@example.edu,+1 (555) 234 5678,456 Oak St,Oakdale,CA,50364-5725,Student,0
+1043,Emma,Flores,emma.flores@example.edu,+1 (555) 345 6789,789 Elm St,Elmvale,MA,29432-8693,Student,0
+1044,Noah,Long,noah.long@example.edu,+1 (555) 456 7890,987 Pine St,Pinetown,TX,72058,Student,0
+1045,Olivia,Reed,olivia.reed@example.edu,+1 (555) 567 8901,654 Cedar St,Cedarville,OH,35522,Student,0
+1046,Liam,Gomez,liam.gomez@example.edu,+1 (555) 678 9012,321 Birch St,Birchfield,FL,33517,Student,0
+1047,Ava,Hill,ava.hill@example.edu,+1 (555) 789 0123,876 Walnut St,Walnutville,TN,49156,Student,0
+1048,Noah,Ward,noah.ward@example.edu,+1 (555) 890 1234,543 Spruce St,Spruceville,OH,65952,Student,0
+1049,Isabella,Watson,isabella.watson@example.edu,+1 (555) 901 2345,210 Oak St,Oakville,NC,94442,Student,0
+1050,Liam,Bailey,liam.bailey@example.edu,+1 (555) 012 3456,109 Cherry St,Cherrytown,PA,86939,Student,0
+1051,Oliver,Smith,oliver.smith@example.com,+61 (02) 1234 5678,123 King St,Sydney,NSW,96543,Marketing Coordinator,65000
+1052,Chloe,Jones,chloe.jones@example.com,+61 (03) 2345 6789,456 Queen St,Melbourne,VIC,33814,Software Developer,70000
+1053,Mason,Williams,mason.williams@example.com,+61 (07) 3456 7890,789 Murray St,Brisbane,QLD,64658,Financial Analyst,75000
+1054,Isabella,Brown,isabella.brown@example.com,+61 (08) 4567 8901,987 George St,Perth,WA,72669,HR Manager,80000
+1055,William,Davis,william.davis@example.com,+61 (02) 5555 6666,654 York St,Adelaide,SA,28599,Operations Manager,85000
+1056,Charlotte,Miller,charlotte.miller@example.com,+61 (03) 6666 7777,321 Kent St,Hobart,TAS,92670,Sales Representative,70000
+1057,Noah,Wilson,noah.wilson@example.com,+61 (07) 7777 8888,876 Collins St,Gold Coast,QLD,47197,Product Manager,75000
+1058,Sophia,Martin,sophia.martin@example.com,+61 (08) 8888 9999,543 King William St,Canberra,ACT,70804,Data Analyst,70000
+1059,Lucas,Thompson,lucas.thompson@example.com,+61 (02) 9999 0000,210 St George's Terrace,Darwin,NT,20355,Software Engineer,80000
+1060,Amelia,White,amelia.white@example.com,+61 (03) 0000 1111,109 William St,Cairns,QLD,96849,Marketing Manager,85000
+1061,Aiden,Johnson,aiden.johnson@example.com,+1 (310) 111-2222,123 Oak St,Los Angeles,CA,16945,Marketing Coordinator,60000
+1062,Charlotte,Williams,charlotte.williams@example.com,+1 (310) 222-3333,456 Elm St,San Francisco,CA,79830,Software Developer,75000
+1063,Carter,Jones,carter.jones@example.com,+1 (310) 333-4444,789 Maple St,New York,NY,77907,Financial Analyst,70000
+1064,Amelia,Brown,amelia.brown@example.com,+1 (310) 444-5555,987 Pine St,Chicago,IL,64429,HR Manager,80000
+1065,Grayson,Davis,grayson.davis@example.com,+1 (310) 555-6666,654 Cedar St,Miami,FL,29095,Operations Manager,85000
+1066,Riley,Miller,riley.miller@example.com,+1 (310) 666-7777,321 Birch St,Houston,TX,79646,Sales Representative,65000
+1067,Zoey,Wilson,zoey.wilson@example.com,+1 (310) 777-8888,876 Walnut St,Philadelphia,PA,69997,Product Manager,75000
+1068,Ethan,Moore,ethan.moore@example.com,+1 (310) 888-9999,543 Oak St,Phoenix,AZ,97991,Data Analyst,70000
+1069,Lily,Taylor,lily.taylor@example.com,+1 (310) 999-0000,210 Pine St,San Diego,CA,12029,Software Engineer,80000
+1070,Jackson,Anderson,jackson.anderson@example.com,+1 (310) 000-1111,109 Maple St,Dallas,TX,79993,Marketing Manager,85000
